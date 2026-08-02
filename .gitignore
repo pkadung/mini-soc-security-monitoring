@@ -1,0 +1,90 @@
+# ==================================================
+# Secrets and credentials
+# ==================================================
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+tokens/
+webhooks/
+*.secret
+*.key
+*.pem
+*.pfx
+*.p12
+*.jks
+
+# Local configuration containing sensitive values
+config.local.*
+settings.local.*
+discord-webhook.json
+telegram-token.txt
+wazuh-password.txt
+api-token.txt
+credentials.json
+
+# ==================================================
+# VMware virtual machines
+# ==================================================
+*.vmdk
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.vmx
+*.vmxf
+*.lck
+*.scoreboard
+*.vmwarevm
+vmware.log
+vmware-*.log
+
+# ==================================================
+# ISO, archive and large binary files
+# ==================================================
+*.iso
+*.ova
+*.ovf
+*.7z
+*.rar
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# ==================================================
+# Logs and temporary files
+# ==================================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==================================================
+# Python
+# ==================================================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ==================================================
+# Editors and operating systems
+# ==================================================
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ==================================================
+# Private evidence
+# ==================================================
+Evidence/private/
+evidence/private/
+private/
