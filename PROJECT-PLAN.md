@@ -22,11 +22,11 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 &#x20;and operating systemso cấu trúc thư mục
 
-\- \[ ] Tải Ubuntu Server ISO
+\- \[x] Tải Ubuntu Server ISO
 
-\- \[ ] Kiểm tra SHA-256
+\- \[x] Kiểm tra SHA-256
 
-\- \[ ] Cấu hình VMware Virtual Network
+\- \[x] Cấu hình VMware Virtual Network
 
 \- \[ ] Tạo SOC-GATEWAY
 
