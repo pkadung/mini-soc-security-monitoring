@@ -28,7 +28,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Cấu hình VMware Virtual Network
 
-\- \[ ] Tạo SOC-GATEWAY
+\- \[x] Tạo SOC-GATEWAY
 
 \- \[ ] Cấu hình routing và NAT
 
