@@ -1,0 +1,31 @@
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    wan0:
+      match:
+        macaddress: "00:0c:29:9c:c6:6c"
+      set-name: wan0
+      dhcp4: true
+      dhcp6: false
+      optional: false
+
+    mgmt0:
+      match:
+        macaddress: "00:0c:29:9c:c6:76"
+      set-name: mgmt0
+      dhcp4: false
+      dhcp6: false
+      addresses:
+        - 192.168.30.254/24
+      optional: true
+
+    protected0:
+      match:
+        macaddress: "00:0c:29:9c:c6:80"
+      set-name: protected0
+      dhcp4: false
+      dhcp6: false
+      addresses:
+        - 192.168.20.254/24
+      optional: true
