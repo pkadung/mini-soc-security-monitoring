@@ -30,7 +30,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Tạo SOC-GATEWAY
 
-\- \[ ] Cấu hình routing và NAT
+\- \[x] Cấu hình routing và NAT
 
 
 
@@ -38,7 +38,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] Tạo SOC-WAZUH
+\- \[x] Tạo SOC-WAZUH
 
 \- \[ ] Cài Wazuh all-in-one
 
