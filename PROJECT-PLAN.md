@@ -46,11 +46,11 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[ ] Kết nối Windows Agent
 
-\- \[ ] Cấu hình File Integrity Monitoring
+\- \[x] Cấu hình File Integrity Monitoring
 
-\- \[ ] Cấu hình Vulnerability Detection
+\- \[x] Cấu hình Vulnerability Detection
 
-\- \[ ] Kiểm tra authentication alerts
+\- \[x] Kiểm tra authentication alerts
 
 
 

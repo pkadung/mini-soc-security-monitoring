@@ -1,0 +1,2 @@
+<!-- Insert this entry inside the existing syscheck block. -->
+<directories check_all="yes" realtime="yes" report_changes="yes">/opt/mini-soc-fim</directories>
