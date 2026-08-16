@@ -42,7 +42,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Cài Wazuh all-in-one
 
-\- \[ ] Kết nối Linux Agent
+\- \[x] Kết nối Linux Agent
 
 \- \[ ] Kết nối Windows Agent
 
