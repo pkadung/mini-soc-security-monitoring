@@ -1,0 +1,6 @@
+﻿<!-- Add inside an ossec_config block on the Wazuh Agent -->
+
+<localfile>
+  <log_format>json</log_format>
+  <location>/var/log/suricata/eve.json</location>
+</localfile>
