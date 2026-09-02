@@ -44,7 +44,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Kết nối Linux Agent
 
-\- \[ ] Kết nối Windows Agent
+\- \[x] Kết nối Windows Agent
 
 \- \[x] Cấu hình File Integrity Monitoring
 
@@ -58,17 +58,17 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] Cài Suricata IDS
+\- \[x] Cài Suricata IDS
 
-\- \[ ] Cấu hình HOME\_NET
+\- \[x] Cấu hình HOME\_NET
 
-\- \[ ] Cập nhật rules
+\- \[x] Cập nhật rules
 
-\- \[ ] Kiểm tra eve.json
+\- \[x] Kiểm tra eve.json
 
-\- \[ ] Tích hợp Suricata vào Wazuh
+\- \[x] Tích hợp Suricata vào Wazuh
 
-\- \[ ] Kiểm thử cảnh báo mạng
+\- \[x] Kiểm thử cảnh báo mạng
 
 \- \[ ] Chuyển một số rule sang IPS
 
@@ -78,19 +78,19 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] Tạo SOC-MONITOR
+\- \[x] Tạo SOC-MONITOR
 
-\- \[ ] Cài Zabbix Server
+\- \[x] Cài Zabbix Server
 
-\- \[ ] Cài Linux Agent
+\- \[x] Cài Linux Agent
 
-\- \[ ] Cài Windows Agent
+\- \[x] Cài Windows Agent
 
-\- \[ ] Tạo trigger
+\- \[x] Tạo trigger
 
 \- \[ ] Cài Grafana
 
-\- \[ ] Xây dựng dashboard
+\- \[x] Xây dựng dashboard
 
 
 
