@@ -88,7 +88,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Tạo trigger
 
-\- \[ ] Cài Grafana
+\- \[x] Cài Grafana
 
 \- \[x] Xây dựng dashboard
 
