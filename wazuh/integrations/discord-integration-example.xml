@@ -1,0 +1,8 @@
+﻿<!-- Add inside the final ossec_config block on the Wazuh Manager -->
+
+<integration>
+  <name>custom-discord</name>
+  <hook_url>DISCORD_WEBHOOK_FROM_SECURE_STORAGE</hook_url>
+  <level>7</level>
+  <alert_format>json</alert_format>
+</integration>
