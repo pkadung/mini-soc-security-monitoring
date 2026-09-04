@@ -98,11 +98,11 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] Tạo Discord Server
+\- \[x] Tạo Discord Server
 
-\- \[ ] Tạo webhook
+\- \[x] Tạo webhook
 
-\- \[ ] Tích hợp Wazuh notification
+\- \[x] Tích hợp Wazuh notification
 
 \- \[ ] Tích hợp Zabbix notification
 
@@ -124,7 +124,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[ ] Network scan
 
-\- \[ ] File integrity change
+\- \[x] File integrity change
 
 \- \[ ] CPU overload
 
@@ -132,7 +132,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[ ] Service down
 
-\- \[ ] Discord notification
+\- \[x] Discord notification
 
 \- \[ ] Automatic blocking
 
