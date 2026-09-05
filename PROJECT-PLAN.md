@@ -112,9 +112,9 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] SSH Authentication Failure
+\- \[x] SSH Authentication Failure
 
-\- \[ ] SSH Brute Force
+\- \[x] SSH Brute Force
 
 \- \[ ] Network Scan
 
@@ -128,9 +128,9 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Discord Notification
 
-\- \[ ] Automatic Blocking
+\- \[x] Automatic Blocking
 
-\- \[ ] Automatic Unblocking
+\- \[x] Automatic Unblocking
 
 
 
