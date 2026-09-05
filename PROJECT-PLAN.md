@@ -14,13 +14,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[\[codv/
-
-/
-
-=
-
-&#x20;and operating systemso cấu trúc thư mục
+\- \[x] Tạo cấu trúc thư mục dự án
 
 \- \[x] Tải Ubuntu Server ISO
 
@@ -30,7 +24,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Tạo SOC-GATEWAY
 
-\- \[x] Cấu hình routing và NAT
+\- \[x] Cấu hình Routing và NAT
 
 
 
@@ -40,7 +34,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Tạo SOC-WAZUH
 
-\- \[x] Cài Wazuh all-in-one
+\- \[x] Cài Wazuh All-in-One
 
 \- \[x] Kết nối Linux Agent
 
@@ -50,7 +44,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Cấu hình Vulnerability Detection
 
-\- \[x] Kiểm tra authentication alerts
+\- \[x] Kiểm tra Authentication Alerts
 
 
 
@@ -62,7 +56,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Cấu hình HOME\_NET
 
-\- \[x] Cập nhật rules
+\- \[x] Cập nhật Rules
 
 \- \[x] Kiểm tra eve.json
 
@@ -70,7 +64,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Kiểm thử cảnh báo mạng
 
-\- \[ ] Chuyển một số rule sang IPS
+\- \[ ] Chuyển một số Rule sang IPS
 
 
 
@@ -86,11 +80,11 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Cài Windows Agent
 
-\- \[x] Tạo trigger
+\- \[x] Tạo Trigger
 
 \- \[x] Cài Grafana
 
-\- \[x] Xây dựng dashboard
+\- \[x] Xây dựng Dashboard
 
 
 
@@ -100,17 +94,17 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[x] Tạo Discord Server
 
-\- \[x] Tạo webhook
+\- \[x] Tạo Webhook
 
-\- \[x] Tích hợp Wazuh notification
+\- \[x] Tích hợp Wazuh Notification
 
-\- \[ ] Tích hợp Zabbix notification
+\- \[ ] Tích hợp Zabbix Notification
 
-\- \[x] Cấu hình whitelist
+\- \[x] Cấu hình Whitelist
 
-\- \[x] Cấu hình block tạm thời
+\- \[x] Cấu hình Block tạm thời
 
-\- \[ ] Kiểm tra tự động unblock
+\- \[ ] Kiểm tra tự động Unblock
 
 
 
@@ -118,25 +112,25 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] SSH authentication failure
+\- \[ ] SSH Authentication Failure
 
-\- \[ ] SSH brute force
+\- \[ ] SSH Brute Force
 
-\- \[ ] Network scan
+\- \[ ] Network Scan
 
-\- \[x] File integrity change
+\- \[x] File Integrity Change
 
-\- \[ ] CPU overload
+\- \[ ] CPU Overload
 
-\- \[ ] Host down
+\- \[ ] Host Down
 
-\- \[ ] Service down
+\- \[ ] Service Down
 
-\- \[x] Discord notification
+\- \[x] Discord Notification
 
-\- \[ ] Automatic blocking
+\- \[ ] Automatic Blocking
 
-\- \[ ] Automatic unblocking
+\- \[ ] Automatic Unblocking
 
 
 
@@ -144,7 +138,7 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 
 
-\- \[ ] Đọc Wazuh alert JSON
+\- \[ ] Đọc Wazuh Alert JSON
 
 \- \[ ] Tóm tắt sự kiện
 
@@ -162,11 +156,11 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[ ] Hoàn thiện báo cáo
 
-\- \[ ] Hoàn thiện source code
+\- \[ ] Hoàn thiện Source Code
 
-\- \[ ] Hoàn thiện slide
+\- \[ ] Hoàn thiện Slide
 
-\- \[ ] Quay video dự phòng
+\- \[ ] Quay video minh họa
 
-\- \[ ] Luyện demo
+\- \[ ] Luyện Demo
 
