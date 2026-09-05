@@ -106,9 +106,9 @@ Ngày hoàn thành dự kiến: 13/09/2026
 
 \- \[ ] Tích hợp Zabbix notification
 
-\- \[ ] Cấu hình whitelist
+\- \[x] Cấu hình whitelist
 
-\- \[ ] Cấu hình block tạm thời
+\- \[x] Cấu hình block tạm thời
 
 \- \[ ] Kiểm tra tự động unblock
 
